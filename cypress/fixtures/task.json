@@ -1,0 +1,58 @@
+{
+    "TC0001": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Go for a walk"
+    },
+    "TC0002": {
+        "title": "📋 To-Do-List",
+        "alertMessage": "Please enter a task"
+    },
+    "TC0003": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Go for a walk",
+        "tasks": [
+            "Meditate for 15 mins",
+            "Attend scheduled meetings",
+            "Check and respond to emails",
+            "Read a chapter of a book"
+        ]
+    },
+    "TC0004": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Meditate for 15 mins"
+    },
+    "TC0005": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Meditate for 15 mins"
+    },
+    "TC0006": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Meditate for 15 mins"
+    },
+    "TC0007": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Meditate for 15 mins"
+    },
+    "TC0008": {
+        "title": "📋 To-Do-List",
+        "tasks": [
+            "Meditate for 15 mins",
+            "Attend scheduled meetings",
+            "Check and respond to emails",
+            "Read a chapter of a book"
+        ]
+    },
+    "TC0009": {
+        "title": "📋 To-Do-List",
+        "tasks": [
+            "Meditate for 15 mins",
+            "Attend scheduled meetings",
+            "Check and respond to emails",
+            "Read a chapter of a book"
+        ]
+    },
+    "TC0010": {
+        "title": "📋 To-Do-List",
+        "taskValue": "Attend scheduled meetings"
+    }
+}
