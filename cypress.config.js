@@ -21,7 +21,7 @@ module.exports = defineConfig({
   },
 
   env: {
-    url: "http://127.0.0.1:5500/index.html",
+    url: "https://harikrishnaveni-s.github.io/simple-to-do-list/",
   },
 
 });
